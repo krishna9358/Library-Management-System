@@ -1,0 +1,18 @@
+This is the official software of Library Management System made by Krishna Mohan.
+Pyracy of this software is not allowed.
+For rights please mail me at
+krishanmohank974@gmail.com
+
+Note: Please donot try to copy the code, debug the software or any other kind of reverse engineering.
+
+Patch notes of LMS
+1. Data files reduced to 2.
+2. Password secured with md5 encryption.
+3. Redesigned interfaces.
+4. Added new feature:- Delete Mutiple books.
+5. Add Multiple books option is made more precise.
+6. Contact me option filled with hyperlinks.
+7. Changes in Loading screen.
+8. More organized windows.
+9. Added more graphics.
+10.Bugs fixed.
